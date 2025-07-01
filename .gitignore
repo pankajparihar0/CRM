@@ -1,0 +1,6 @@
+.env
+.venv
+client_secret.json
+token.json
+.python-version
+uv.lock
